@@ -1,0 +1,9 @@
+{
+  "name": "BEELOOM",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": { "$path": "src/ReplicatedStorage/Shared" }
+    }
+  }
+}
